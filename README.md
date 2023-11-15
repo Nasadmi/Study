@@ -1,6 +1,3 @@
-## Rima I:
-* #### Tema: La búsqueda del sentido en la vida.
-* #### Características: El poema explora la inquietud y la incertidumbre acerca del propósito de la existencia. Se utilizan metáforas para expresar la búsqueda constante de significado en medio de las experiencias humanas.
 
 ## Rima II
 * #### Tema: Habla de un himno gigante y extraño que anuncia una aurora en la noche del alma.
