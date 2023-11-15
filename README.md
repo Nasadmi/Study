@@ -1,9 +1,10 @@
+# Rimas
 
-## Rima II
+## Rima I
 * #### Tema: Habla de un himno gigante y extraño que anuncia una aurora en la noche del alma.
 * #### Características destacadas: Expresa el deseo de escribir un himno que capture la esencia del hombre y del alma.
 
-## Rima III
+## Rima II
 * #### Tema: Describe fenómenos naturales (saeta, hoja, ola, luz) como metáforas de la existencia humana.
 * #### Características destacadas: Utiliza imágenes de la naturaleza para expresar la fugacidad y la incertidumbre de la vida.
 
@@ -378,3 +379,48 @@
 ## Rima XCVIII:
 * #### Tema: El poder del amor.
 * #### Características: Explora la fuerza transformadora del amor. Utiliza metáforas y simbolismos para representar cómo el amor puede cambiar la percepción del mundo y ofrecer consuelo y esperanza en medio de las dificultades.
+
+# Leyendas
+
+## Ojos Verdes:
+
+* ### Personajes:
+    * #### Berta: Mujer enigmática con ojos verdes.
+    * #### Protagonista: Joven cazador enamorado de Berta.
+* ### Trama:
+    * #### El protagonista se enamora de Berta, pero descubre su oscuro pasado. Berta está relacionada con la muerte de su esposo anterior. Los celos y la pasión llevan a un desenlace trágico.
+* ### Desenlace:
+    * #### La historia culmina en una tragedia, revelando la naturaleza fatal de la pasión y los celos.
+
+## El Monte de las Ánimas:
+* ### Personajes:
+    * #### Alonso: Protagonista.
+    * #### Beatriz: Prima de Alonso.
+* ### Trama:
+    * #### Alonso y Beatriz participan en la tradición del Monte de las Ánimas. Una antigua maldición se desata, provocando eventos sobrenaturales. Revelaciones trágicas sobre el pasado de la familia.
+* ### Desenlace:
+    * #### Alonso sufre las consecuencias de la maldición, enfrentando un destino fatal.
+
+## Maese Pérez el Organista:
+* ### Personajes:
+    * #### Maese Pérez: Organista apasionado.
+* ### Trama:
+    * ##### Maese Pérez fue humillado por su nerviosismo durante una obra en la catedral delante de un noble que lo humillo hacienmdo que este no volviese a tocar el organo nunca mas en vida, donde continúa tocando el órgano después de su muerte. La historia explora la conexión entre la música y el más allá. Eventos sobrenaturales durante la Nochebuena.
+* ### Desenlace:
+    * #### La leyenda sugiere una conexión entre el mundo de los vivos y el más allá, destacando la pasión de Maese Pérez por la música.
+
+## El Rayo de la Luna:
+* ### Personajes:
+    * #### Joven Enamorado
+* ### Trama:
+    * #### El joven se encuentra con un rayo de luna que lo llena de éxtasis. Experimenta una conexión mística entre lo celestial y lo terrenal. Reflexiones sobre el amor, la belleza y la espiritualidad.
+* ### Desenlace:
+    * #### La historia explora la dualidad entre los aspectos divinos y terrenales del amor.
+
+## El Cristo de la Calavera:
+* ### Personajes:
+    * #### Joven Irresponsable
+* ### Trama:
+    * #### El joven encuentra el Cristo de la Calavera en una iglesia abandonada. Se revela la conexión entre la figura religiosa y los pecados del joven. Temas de arrepentimiento, redención y culpa.
+* ### Desenlace:
+    * #### La leyenda aborda el peso de la culpa y la posibilidad de redención a través del arrepentimiento.
